@@ -1,7 +1,7 @@
 <h1>Museu Nacional</h1>
 
 <h2> Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto desenvolvido para um Museu fictício.</p>
 
 ##  Tecnologias
 <div>
